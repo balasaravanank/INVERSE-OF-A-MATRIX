@@ -29,7 +29,7 @@ print(soln)
 ```
 
 ## Output:
-<img width="1278" height="318" alt="Screenshot 2025-08-14 180908" src="https://github.com/user-attachments/assets/c8ccd2a0-dfb7-48ee-8a07-62198c2211d0" />
+<img width="2532" height="1405" alt="Screenshot 2025-08-28 024835" src="https://github.com/user-attachments/assets/8f1e2e78-165c-4bca-8c57-0de9d63c7008" />
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
